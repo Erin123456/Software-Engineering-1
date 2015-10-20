@@ -1,5 +1,7 @@
-Software-engineering
-       罗卓  201434087
+                                                   Software-engineering
+      
+                                                                                                           罗卓  201434087
+    -----                                                                                                       
 
 Traditionally,dictionaries were printed on paper,and these looks were always heavy.Because of loads of data,compilers preferred smaller prints.With the development of science and technology,translation software has burgeoned.
 
